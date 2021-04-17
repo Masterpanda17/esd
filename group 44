@@ -1,0 +1,3 @@
+radius = int(input('Enter radius of the Hemisphere: '))
+print('The co-ordinates of the C.O.G. are (x, y, z): 
+(' + str(radius) + ', ' + str(radius) + ', ' + str(3*radius/8) + ')')
